@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ideausher-react-app/static/css/main.a4e73c2e.css",
-    "main.js": "/ideausher-react-app/static/js/main.e2972670.js",
+    "main.js": "/ideausher-react-app/static/js/main.29b57b8a.js",
     "static/js/453.9a0edc82.chunk.js": "/ideausher-react-app/static/js/453.9a0edc82.chunk.js",
     "index.html": "/ideausher-react-app/index.html",
     "main.a4e73c2e.css.map": "/ideausher-react-app/static/css/main.a4e73c2e.css.map",
-    "main.e2972670.js.map": "/ideausher-react-app/static/js/main.e2972670.js.map",
+    "main.29b57b8a.js.map": "/ideausher-react-app/static/js/main.29b57b8a.js.map",
     "453.9a0edc82.chunk.js.map": "/ideausher-react-app/static/js/453.9a0edc82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4e73c2e.css",
-    "static/js/main.e2972670.js"
+    "static/js/main.29b57b8a.js"
   ]
 }
